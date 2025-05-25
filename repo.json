@@ -1,42 +1,22 @@
 {
   "name": "LegendYomi",
+  "description": "أقوى مستودع أنمي مترجم عربي لـ AniYomi، يحتوي على أفضل وأسرع الإضافات.",
   "version": 1,
-  "extractors": [],
-  "anime": [
+  "sources": [
     {
-      "name": "Spirited Away",
-      "type": "movie",
-      "lang": "ar",
-      "url": "https://example.com/spirited-away.mp4",
-      "image": "https://example.com/spirited-away.jpg"
+      "name": "Nozomi Subs",
+      "url": "https://raw.githubusercontent.com/NekosSubs/nozomi-extensions/main/index.min.json",
+      "lang": "ar"
     },
     {
-      "name": "Your Name",
-      "type": "movie",
-      "lang": "ar",
-      "url": "https://example.com/your-name.mp4",
-      "image": "https://example.com/your-name.jpg"
+      "name": "NekosSubs",
+      "url": "https://raw.githubusercontent.com/NekosSubs/anime-extensions/main/index.min.json",
+      "lang": "ar"
     },
     {
-      "name": "A Silent Voice",
-      "type": "movie",
-      "lang": "ar",
-      "url": "https://example.com/a-silent-voice.mp4",
-      "image": "https://example.com/a-silent-voice.jpg"
-    },
-    {
-      "name": "Weathering with You",
-      "type": "movie",
-      "lang": "ar",
-      "url": "https://example.com/weathering-with-you.mp4",
-      "image": "https://example.com/weathering-with-you.jpg"
-    },
-    {
-      "name": "The Wind Rises",
-      "type": "movie",
-      "lang": "ar",
-      "url": "https://example.com/the-wind-rises.mp4",
-      "image": "https://example.com/the-wind-rises.jpg"
+      "name": "KayoAnime",
+      "url": "https://raw.githubusercontent.com/kayoanime/arabic-extensions/main/index.json",
+      "lang": "ar"
     }
   ]
 }
